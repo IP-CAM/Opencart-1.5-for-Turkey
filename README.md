@@ -20,7 +20,6 @@ IPN: http: // {your domainname} /index.php?route=payment/payu/callback
 
 Make sure you set the currency of your store correctly, because if you are using USD or EUR, PayU will receive the payment by converting it to TRY (TL).
 
-! [Screenshot] [1]
 
 ========================
 # English manual
@@ -43,7 +42,5 @@ Installation
 - Enter your personal settings
 Exemple of settings you can watching on screenshot
 
-
-[1]: https://raw.github.com/PayUDevCenter/Opencart-1.5-for-Turkey/master/screens.png 
 
 
